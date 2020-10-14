@@ -1,0 +1,52 @@
+body{	
+	font-family: 'Sansita Swashed', cursive;
+}
+
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border:0;
+	border:2px solid black;
+}
+
+.navbar-header h1{
+	text-transform: uppercase;
+	color: #000;
+	font-weight: bold;
+	margin-bottom: .7em;
+	line-height: .2;
+	float: left;
+}
+
+.navbar-header a:hover, .navbar-header a:focus{
+	text-decoration: none;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a{
+	color: #000;
+	text-align: center;
+	font-size: 1.8em;
+	text-transform: uppercase;
+}
+
+#nav-list a:hover{
+	text-decoration: none;
+	background-color: #e7e7e7;
+}
+
+div>div{
+	background-color: #61122f;
+	margin:20px;
+	padding: 20px;
+	color: #FFF;
+	text-align: justify;
+}
+.title{
+	font-size: 1.5em;
+	text-align: center;
+	padding-bottom: 10px;
+}
